@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_home"
+        android:enabled="true"
+        android:icon="@drawable/home"
+        android:title="Home" />
+    <item
+        android:id="@+id/action_menu"
+        android:enabled="true"
+        android:icon="@drawable/menu"
+        android:title="레시피" />
+    <item
+        android:id="@+id/action_add"
+        android:enabled="true"
+        android:icon="@drawable/add"
+        android:title="Upload" />
+
+    <item
+        android:id="@+id/action_folder"
+        android:enabled="true"
+        android:icon="@drawable/folder"
+        android:title="즐겨찾기" />
+
+    <item
+        android:id="@+id/action_face"
+        android:enabled="true"
+        android:icon="@drawable/face"
+        android:title="MyPage" />
+</menu>
